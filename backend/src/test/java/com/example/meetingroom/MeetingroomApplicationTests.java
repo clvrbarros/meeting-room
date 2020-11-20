@@ -1,4 +1,4 @@
-package com.example.meetingroom.meetingroom;
+package com.example.meetingroom;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
